@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NazimOterFinalProject</string>
+    <array name="departman_adi">
+        <item>Departman Seçiniz</item>
+        <item>İktisat</item>
+        <item>Uygulama Geliştirme</item>
+        <item>Bina İşletim ve İdari İşler</item>
+    </array>
+
+</resources>

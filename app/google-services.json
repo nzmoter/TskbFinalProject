@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "327676236332",
+    "firebase_url": "https://nzmoterfinalproject.firebaseio.com",
+    "project_id": "nzmoterfinalproject",
+    "storage_bucket": "nzmoterfinalproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327676236332:android:5eecba6cca793ebf",
+        "android_client_info": {
+          "package_name": "nzmoter.com.nazimoterfinalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327676236332-psb9bdijjlulp81pistns3iti3fr7pfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyACIXnzhW8pGg-dUFGNOK-DNS-O2fUH8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
